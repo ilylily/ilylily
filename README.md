@@ -16,4 +16,4 @@ i'm looking to collaborate on:
 - platform compatibility (support for linux, bsd operating systems, and others)
 - accessibility for disabled users, especially on open source platforms
 
-i'm happy to help with just about anything! my favourite languages are c, rust, go, raku, and common lisp. i'm also quite good at javascript and python, but i have no great love for them. i know a fair few other languages, and i learn fast besides, so don't be afraid to say hi or get technical if your project isn't in one of those languages (unless it's php. i'll do it, but you *should* be afraid)
+i'm happy to help with just about anything! my favourite languages are c, rust, go, raku, and common lisp. i'm also quite good at javascript and python, but i have no great love for them. i know a fair few other languages, and i learn fast besides, so don't be afraid to say hi or get technical if your project isn't in one of those languages
